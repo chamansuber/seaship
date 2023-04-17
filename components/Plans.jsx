@@ -85,4 +85,4 @@ function Plans() {
   )
 }
 
-export default Plans
+export default Plans;

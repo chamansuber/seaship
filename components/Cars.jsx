@@ -69,4 +69,4 @@ function Cars() {
   )
 }
 
-export default Cars
+export default Cars;
